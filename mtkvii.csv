@@ -1,36 +1,36 @@
 No,Soal,A,B,C,D,Jawaban
-1,"Tentukan nilai \(x\) yang memenuhi persamaan \(2x = 10\)",2,3,4,5,5
-2,"Jika \(3x - 4 = 8\), maka nilai \(x\) adalah...",2,3,4,5,4
-3,"Berapa nilai \(y\) jika \(5y - 2 = 18\) adalah...",3,4,5,6,4
-4,"Persamaan \(4x + 7 = 19\) memiliki nilai \(x\) ...",2,3,4,5,3
-5,"Jika \(2x + 3 = 9\), maka \(x\) adalah...",1,2,3,4,3
-6,"Nilai \(x\) dari persamaan \(x - 7 = 5\) adalah ...",10,12,11,13,12
-7,"Berapa nilai \(x\) jika \(6x - 5 = 7\) ...",1,2,3,4,2
-8,"Jika \(3x = 15\), maka nilai \(x\) adalah...",3,4,5,6,5
-9,"Tentukan nilai \(x\) yang memenuhi pertidaksamaan \(2x + 3 < 9\)",\(x < 2\),\(x < 3\),\(x < 4\),\(x < 5\),\(x < 3\)
-10,"Jika \(4x - 5 > 11\), maka nilai \(x\) yang memenuhi adalah...",\(x > 2\),\(x > 3\),\(x > 4\),\(x > 5\),\(x > 4\)
-11,"Berapa nilai \(x\) yang memenuhi \(3x + 7 \geq 16\) adalah ...",\(x \geq 2\),\(x \geq 3\),\(x \geq 4\),\(x \geq 5\),\(x \geq 3\)
-12,"Jika \(5x - 3 < 17\), maka nilai \(x\) adalah...",\(x < 2\),\(x < 4\),\(x < 5\),\(x < 6\),\(x < 4\)
-13,"Tentukan nilai \(x\) dalam pertidaksamaan \(2x + 5 \geq 11\) adalah ...",\(x \geq 2\),\(x \geq 3\),\(x \geq 4\),\(x \geq 5\),\(x \geq 3\)
-14,"Jika \(\frac{x}{3} = \frac{4}{6}\), maka nilai \(x\) adalah:",2,4,6,8,2
-15,"Jika \(\frac{5}{y} = \frac{10}{6}\), maka nilai \(y\) adalah:",2,3,6,12,3
-16,"Jika \(\frac{7}{2} = \frac{x}{4}\), maka nilai \(x\) adalah:",2,7,14,28,14
-17,"Jika \(\frac{x}{9} = \frac{3}{5}\), maka nilai \(x\) adalah:",1.5,3.6,5.4,15,5.4
-18,"Jika \(\frac{6}{3} = \frac{y}{9}\), maka nilai \(y\) adalah:",2,6,12,18,18
-19,"Jika \(\frac{8}{x} = \frac{4}{10}\), maka nilai \(x\) adalah:",2,5,10,20,20
-20,"Jika \(\frac{x}{4} = \frac{12}{16}\), maka nilai \(x\) adalah:",3,6,9,12,3
-21,"Jika \(\frac{10}{y} = \frac{15}{6}\), maka nilai \(y\) adalah:",3,4,6,9,4
-22,"Jika \(\frac{9}{3} = \frac{x}{7}\), maka nilai \(x\) adalah:",1,3,7,21,21
-23,"Jika \(\frac{14}{2} = \frac{y}{8}\), maka nilai \(y\) adalah:",2,4,7,14,7
-24,"Jika \(x = 2\), maka nilai \(y\) adalah ...",4,3,5,6,4
-25,"Jika grafik fungsi \(y = 2x\) dan \(x = -1\), nilai \(y\) adalah ...",0,2,-2,3,-2
-26,"Jika 4 buku berharga Rp40.000, maka harga 6 buku adalah ...",Rp50.000,Rp55.000,Rp60.000,Rp65.000,Rp60.000
-27,"5 liter bensin dapat menempuh 100 km. Berapa jarak yang ditempuh dengan 8 liter bensin?",150 km,160 km,140 km,120 km,160 km
-28,"Dalam 3 jam, sebuah mesin memproduksi 150 barang. Berapa barang yang dihasilkan dalam 5 jam?",200,250,300,350,250
-29,"Jika 2 kg apel berharga Rp24.000, maka harga 5 kg apel adalah ...",Rp50.000,Rp55.000,Rp60.000,Rp65.000,Rp60.000
-30,"7 orang dapat menyelesaikan pekerjaan dalam 14 hari. Berapa hari yang dibutuhkan 14 orang?",5 hari,7 hari,hari,12 hari,7 hari
-31,"Temukan nilai \(x\) dalam persamaan berikut: \(x + 12 = 0\)",,,,,-12
-32,"Pada grafik fungsi \(y = 2x\), tentukan nilai \(y\) jika \(x = -4\)",,,,,-8
-33,"Jelaskan apa yang dimaksud dengan perbandingan senilai.",,,,,Perbandingan senilai adalah perbandingan antara dua besaran atau lebih yang apabila salah satu besaran nilainya bertambah atau berkurang, maka besaran yang lain juga ikut bertambah atau berkurang secara proporsional.
-34,"Jelaskan apa yang dimaksud dengan perbandingan berbalik nilai.",,,,,Perbandingan berbalik nilai adalah perbandingan antara dua besaran yang apabila salah satu besaran nilainya bertambah, maka besaran yang lain justru berkurang, atau sebaliknya.
-35,"Jika 3 kg apel berharga Rp45.000, berapakah harga 5 kg apel?",,,,,Harga 5 kg apel adalah Rp75.000
+1,"Tentukan nilai (x) yang memenuhi persamaan (3x = 12)",2,3,4,5,4
+2,"Jika (4x - 5 = 11), maka (x) adalah...",3,4,5,6,4
+3,"Carilah nilai (y) jika (6y - 3 = 21)",3,4,5,6,4
+4,"Persamaan (5x + 6 = 21) memiliki solusi (x) ...",2,3,4,5,3
+5,"Berapa nilai (x) jika (3x + 2 = 11)?",1,2,3,4,3
+6,"Temukan nilai (x) dari persamaan (x - 6 = 8)",12,13,14,15,14
+7,"Nilai (x) yang memenuhi (7x - 4 = 10) adalah ...",1,2,3,4,2
+8,"Apabila (4x = 20), berapakah nilai (x)?",3,4,5,6,5
+9,"Temukan nilai (x) yang memenuhi pertidaksamaan (3x + 2 < 11)",(x < 2),(x < 3),(x < 4),(x < 5),(x < 3)
+10,"Jika (5x - 3 > 12), maka (x) yang memenuhi adalah...",(x > 2),(x > 3),(x > 4),(x > 5),(x > 3)
+11,"Berapa nilai (x) yang memenuhi (2x + 9 \geq 17)?",(x \geq 2),(x \geq 3),(x \geq 4),(x \geq 5),(x \geq 4)
+12,"Apabila (6x - 4 < 20), berapakah nilai (x)?",(x < 2),(x < 4),(x < 5),(x < 6),(x < 4)
+13,"Tentukan nilai (x) dalam pertidaksamaan (3x + 6 \geq 12)",(x \geq 1),(x \geq 2),(x \geq 3),(x \geq 4),(x \geq 2)
+14,"Jika (\frac{x}{4} = \frac{6}{8}), berapakah nilai (x)?",2,4,6,8,3
+15,"Jika (\frac{6}{y} = \frac{12}{8}), tentukan nilai (y).",2,3,4,6,4
+16,"Apabila (\frac{5}{2} = \frac{x}{4}), maka nilai (x) adalah:",2,5,10,20,10
+17,"Temukan nilai (x) jika (\frac{x}{6} = \frac{4.2}{7})",2.5,3.6,5.4,6.2,3.6
+18,"Berapa nilai (y) jika (\frac{9}{3} = \frac{y}{6})?",2,3,6,18,18
+19,"Jika (\frac{10}{x} = \frac{5}{12}), carilah nilai (x).",2,5,10,24,24
+20,"Apabila (\frac{x}{5} = \frac{15}{25}), berapakah nilai (x)?",3,5,6,9,3
+21,"Jika (\frac{12}{y} = \frac{18}{6}), tentukan nilai (y).",2,4,6,9,4
+22,"Apabila (\frac{6}{2} = \frac{x}{5}), berapa nilai (x)?",2,3,5,15,15
+23,"Temukan nilai (y) jika (\frac{16}{2} = \frac{y}{4})",2,4,6,8,8
+24,"Jika (x = 3), berapa nilai (y) pada fungsi (y = 2x)?",5,6,7,8,6
+25,"Pada grafik fungsi (y = 3x), jika (x = -2), berapakah nilai (y)?",0,2,-6,3,-6
+26,"Harga 5 buku adalah Rp50.000. Berapakah harga 8 buku?",Rp70.000,Rp75.000,Rp80.000,Rp85.000,Rp80.000
+27,"Sebuah mobil dapat menempuh 120 km dengan 6 liter bensin. Berapa jarak yang bisa ditempuh dengan 10 liter bensin?",180 km,190 km,200 km,210 km,200 km
+28,"Dalam waktu 4 jam, sebuah mesin mampu memproduksi 200 barang. Berapa banyak barang yang dihasilkan dalam 6 jam?",300,250,400,350,300
+29,"Apabila 3 kg apel berharga Rp36.000, berapa biaya untuk 7 kg apel?",Rp70.000,Rp80.000,Rp84.000,Rp90.000,Rp84.000
+30,"8 orang pekerja dapat menyelesaikan sebuah tugas dalam 16 hari. Berapa hari yang diperlukan jika ada 16 orang pekerja?",6 hari,8 hari,10 hari,12 hari,8 hari
+31,"Carilah nilai (x) dalam persamaan: (x + 15 = 0)",,,,,,-15
+32,"Untuk fungsi (y = 3x), tentukan nilai (y) ketika (x = -3)",,,,,,-9
+33,"Jelaskan arti dari perbandingan senilai.",,,,,Perbandingan senilai adalah perbandingan antara dua besaran atau lebih yang apabila salah satu besaran nilainya bertambah atau berkurang, maka besaran yang lain juga ikut bertambah atau berkurang secara proporsional.
+34,"Jelaskan arti dari perbandingan berbalik nilai.",,,,,Perbandingan berbalik nilai adalah perbandingan antara dua besaran yang apabila salah satu besaran nilainya bertambah, maka besaran yang lain justru berkurang, atau sebaliknya.
+35,"Jika 4 kg apel dijual seharga Rp60.000, berapa harga untuk 6 kg apel?",,,,,Harga 6 kg apel adalah Rp90.000

@@ -1,20 +1,20 @@
 No,Soal,A,B,C,D,Jawaban
-1,"Jika grafik fungsi linear naik dari kiri ke kanan, maka tingkat perubahannya adalah...",Nol,Negatif,Positif,Tidak diketahui,C
-2,"Grafik fungsi linear \(y = -2x + 5\) menurun dari kiri ke kanan. Hal ini menunjukkan bahwa...",Tingkat perubahan positif,Titik potong sumbu x sama dengan 2,Tingkat perubahan negatif,Grafik tidak linier,C
-3,"Garis melalui titik \((0,2)\) dan \((2,6)\). Maka tingkat perubahan nilai fungsi tersebut adalah...",1,2,3,4,B
-4,"Jika grafik fungsi linear berbentuk garis horizontal, maka tingkat perubahan nilai fungsi tersebut adalah...",Positif,Negatif,Nol,Tak hingga,C
-5,"Semakin besar nilai tingkat perubahan (gradien), maka garis pada grafik akan...",Semakin mendatar,Semakin curam,Semakin datar ke bawah,Tidak berubah,B
-6,"Jika grafik fungsi linear memiliki garis yang naik dari kiri ke kanan, maka tingkat perubahannya...",Nol,Negatif,Positif,Tidak tentu,C
-7,"Grafik dari fungsi \(y = 2x + 1\) memiliki tingkat perubahan sebesar...",1,2,3,0,B
-8,Garis grafik yang datar dan sejajar dengan sumbu x menunjukkan bahwa tingkat perubahannya adalah...,Nol,Positif,Negatif,Tak hingga,A
-9,"Jika grafik suatu fungsi linear turun dari kiri ke kanan, maka tingkat perubahan nilai fungsinya...",Tetap,Nol,Positif,Negatif,D
+1,"Apabila grafik dari suatu fungsi linear menunjukkan arah kenaikan dari sisi kiri menuju sisi kanan pada bidang koordinat Kartesius, maka dapat disimpulkan bahwa tingkat perubahan (gradien) dari fungsi tersebut adalah...",Nol,Negatif,Positif,Tidak diketahui,C
+2,"Grafik dari fungsi linear \(y = -2x + 5\) menunjukkan penurunan dari sisi kiri ke sisi kanan. Hal ini mengindikasikan bahwa...",Tingkat perubahan positif,Titik potong sumbu x sama dengan 2,Tingkat perubahan negatif,Grafik tidak linier,C
+3,"Sebuah garis melalui dua titik, yaitu \((0,2)\) dan \((2,6)\). Maka, tingkat perubahan nilai fungsi (gradien) dari garis tersebut adalah...",1,2,3,4,B
+4,"Jika grafik dari suatu fungsi linear berbentuk garis horizontal, maka tingkat perubahan nilai fungsi tersebut adalah...",Positif,Negatif,Nol,Tak hingga,C
+5,"Semakin besar nilai tingkat perubahan (gradien) dari suatu fungsi linear, maka garis pada grafik akan...",Semakin mendatar,Semakin curam,Semakin datar ke bawah,Tidak berubah,B
+6,"Apabila grafik dari suatu fungsi linear menunjukkan arah kenaikan dari sisi kiri ke sisi kanan, maka tingkat perubahan (gradien) dari fungsi tersebut adalah...",Nol,Negatif,Positif,Tidak tentu,C
+7,"Grafik dari fungsi \(y = 2x + 1\) memiliki tingkat perubahan (gradien) sebesar...",1,2,3,0,B
+8,"Garis grafik yang datar dan sejajar dengan sumbu x menunjukkan bahwa tingkat perubahannya adalah...",Nol,Positif,Negatif,Tak hingga,A
+9,"Jika grafik suatu fungsi linear menunjukkan penurunan dari sisi kiri ke sisi kanan, maka tingkat perubahan nilai fungsinya adalah...",Tetap,Nol,Positif,Negatif,D
 10,"Pada grafik fungsi \(y = -3x + 4\), arah kemiringan garis adalah...",Naik dari kiri ke kanan,Turun dari kiri ke kanan,Datar,Vertikal,B
 11,"Jika garis pada grafik semakin curam ke atas, maka nilai tingkat perubahan (gradien) menjadi...",Lebih kecil,Negatif,Tetap,Lebih besar,D
-12,"Grafik fungsi \(y = x\) dan \(y = 2x\) keduanya naik dari kiri ke kanan. Grafik yang lebih curam adalah...",\(y = x\),\(y = 2x\),Keduanya sama,Tidak bisa ditentukan,B
-13,"Garis fungsi linear memiliki tingkat perubahan \(m = 0\). Maka bentuk grafiknya adalah...",Garis mendatar,Garis miring ke atas,Garis miring ke bawah,Garis vertikal,A
-14,Fungsi dengan tingkat perubahan negatif akan menghasilkan grafik yang...,Mendatar,Naik dari kiri ke kanan,Turun dari kiri ke kanan,Melengkung,C
+12,"Grafik dari fungsi \(y = x\) dan \(y = 2x\) keduanya menunjukkan arah kenaikan dari sisi kiri ke sisi kanan. Grafik yang lebih curam adalah...",\(y = x\),\(y = 2x\),Keduanya sama,Tidak bisa ditentukan,B
+13,"Garis fungsi linear memiliki tingkat perubahan (gradien) \(m = 0\). Maka bentuk grafiknya adalah...",Garis mendatar,Garis miring ke atas,Garis miring ke bawah,Garis vertikal,A
+14,"Fungsi dengan tingkat perubahan negatif akan menghasilkan grafik yang...",Mendatar,Naik dari kiri ke kanan,Turun dari kiri ke kanan,Melengkung,C
 15,"Semakin besar nilai tingkat perubahan positif pada fungsi linear, maka grafiknya akan...",Semakin datar,Semakin curam naik,Semakin turun,Tidak berubah,B
-16,Langkah pertama yang dilakukan untuk menggambar grafik dari fungsi linear \(y = 2x + 1\) adalah...,Menentukan titik potong dengan sumbu x,Menentukan dua titik pada grafik,Menjumlahkan koefisien,Menentukan luas grafik,B
+16,"Langkah pertama yang dilakukan untuk menggambar grafik dari fungsi linear \(y = 2x + 1\) adalah...",Menentukan titik potong dengan sumbu x,Menentukan dua titik pada grafik,Menjumlahkan koefisien,Menentukan luas grafik,B
 17,"Titik potong grafik dari fungsi \(y = 2x + 1\) dengan sumbu y adalah...",\((1, 0)\),\((0, 2)\),\((0, 1)\),\((2, 0)\),C
 18,"Fungsi \(y = -x + 3\) melalui titik...",\((0, 3)\),\((3, 0)\),\((1, 2)\),Semua benar,D
 19,"Jika diketahui grafik fungsi linear melalui titik \((0, 2)\) dan \((2, 6)\), maka persamaan grafiknya adalah...",\(y = 2x + 2\),\(y = x + 2\),\(y = 3x\),\(y = 2x\),A
@@ -22,15 +22,15 @@ No,Soal,A,B,C,D,Jawaban
 21,"Agar dapat menggambar grafik dari fungsi linear, paling sedikit diperlukan...",Satu titik,Dua titik,Tiga titik,Empat titik,B
 22,"Jika fungsi linear \(y = 4x\), maka titik \((2, 8)\) berada...",Di atas grafik,Di bawah grafik,Pada grafik,Tidak berkaitan,C
 23,"Titik potong grafik fungsi \(y = -2x + 4\) dengan sumbu-x terjadi saat...",\(x = 0\),\(y = 0\),\(x = y\),\(x = 4\),B
-24,Grafik fungsi linear selalu membentuk garis...,Lengkung,Patah-patah,Lurus,Melingkar,C
+24,"Grafik fungsi linear selalu membentuk garis...",Lengkung,Patah-patah,Lurus,Melingkar,C
 25,"Fungsi linear \(y = 0x + 5\) akan digambarkan sebagai garis...",Miring,Vertikal,Horizontal,Tidak bisa digambarkan,C
-26,"Persamaan garis yang melalui titik \((1, –4)\) dan memiliki kemiringan 2 adalah ....",\(y = 2x−6\),\(y = 2x+6\),\(y = −2x−6\),\(y = −2x+6\),A
-27,"Sebuah garis melewati titik \((–2, 5)\) dengan kemiringan \(-3\). Persamaan garis tersebut adalah ....",\(y = −3x−1\),\(y = −3x+1\),\(y = 3x−1\),\(y = 3x+1\),A
-28,"Jika suatu garis melalui titik \((4, –1)\) dan memiliki gradien \(-2\), maka persamaan garisnya adalah ....",\(y = −2x+7\),\(y = −2x−7\),\(y = 2x+7\),\(y = 2x−7\),A
-29,"Tentukan persamaan garis lurus yang melalui titik \((–5, 2)\) dan mempunyai kemiringan 1…",\(y = x+7\),\(y = x−7\),\(y = −x+7\),\(y = −x−7\),A
-30,"Garis dengan kemiringan 3 melewati titik \((–1, –5)\). Persamaan garis tersebut adalah ....",\(y= 3x−2\),\(y = 3x+2\),\(y = −3x−2\),\(y = −3x+2\),A
-31,"Di persamaan garis \(y=ax+b\) , huruf \(a\) itu artinya garisnya miring. Kalau nilai \(a\) besar dari \(0\), garisnya miring ke mana?",,,,,"Garisnya miring ke atas (naik dari kiri ke kanan)."
-32,"Kalau ada garis lurus persamaannya \(y=ax+b\) , angka \(b\) itu menunjukkan garisnya ketemu sumbu tegak (sumbu \(y\)) di angka berapa. Betul atau salah? Jelaskan.",,,,,"Betul. Angka '\(b\)' dalam persamaan \(y=ax+b\) adalah titik potong dengan sumbu \(y\) (y-intercept). Ini adalah nilai \(y\) ketika \(x = 0\)."
-33,"Coba jelaskan, kalau angka di depan \(x\) (yaitu \(a\)) itu positif, garisnya itu naik atau turun kalau kita lihat dari kiri?",,,,,"Jika angka di depan \(x\) (gradien '\(a\)') positif, garisnya akan naik dari kiri ke kanan."
-34,"Gambarlah grafik dari fungsi linear \(y=-12x+3\)",,,,,"Untuk menggambar grafik \(y = -12x + 3\), tentukan dua titik: 1. Titik potong sumbu \(y\) (\(x=0\)): \(y = 3\). Jadi, \((0, 3)\). 2. Titik potong sumbu \(x\) (\(y=0\)): \(0 = -12x + 3\) => \(12x = 3\) => \(x = 1/4\). Jadi, \((1/4, 0)\). Plot kedua titik ini dan gambar garis lurus yang melaluinya. Garis akan turun dari kiri ke kanan karena gradiennya negatif."
-35,"Lihat persamaan garis ini: \(y=-12x+3\) . Angka berapa yang menunjukkan garisnya lewat titik tinggi di atas atau di bawah? Angka berapa itu?",,,,,"Angka yang menunjukkan garisnya lewat titik tinggi di atas atau di bawah adalah konstanta '\(b\)', yaitu \(3\). Ini adalah titik potong dengan sumbu \(y\)."
+26,"Persamaan garis yang melalui titik \((1, –4)\) dan memiliki kemiringan 2 adalah...",\(y = 2x−6\),\(y = 2x+6\),\(y = −2x−6\),\(y = −2x+6\),A
+27,"Sebuah garis melewati titik \((–2, 5)\) dengan kemiringan \(-3\). Persamaan garis tersebut adalah...",\(y = −3x−1\),\(y = −3x+1\),\(y = 3x−1\),\(y = 3x+1\),A
+28,"Jika suatu garis melalui titik \((4, –1)\) dan memiliki gradien \(-2\), maka persamaan garisnya adalah...",\(y = −2x+7\),\(y = −2x−7\),\(y = 2x+7\),\(y = 2x−7\),A
+29,"Tentukan persamaan garis lurus yang melalui titik \((–5, 2)\) dan mempunyai kemiringan 1.",\(y = x+7\),\(y = x−7\),\(y = −x+7\),\(y = −x−7\),A
+30,"Garis dengan kemiringan 3 melewati titik \((–1, –5)\). Persamaan garis tersebut adalah...",\(y= 3x−2\),\(y = 3x+2\),\(y = −3x−2\),\(y = −3x+2\),A
+31,"Dalam persamaan garis \(y = ax + b\), huruf \(a\) menunjukkan kemiringan garis. Jika nilai \(a\) lebih besar dari 0, maka arah kemiringan garis tersebut adalah...",Naik dari kiri ke kanan,Turun dari kiri ke kanan,Datar,Vertikal,A
+32,"Dalam persamaan garis lurus \(y = ax + b\), angka \(b\) menunjukkan titik potong garis dengan sumbu y. Pernyataan ini adalah...",Benar,Salah,Tidak dapat ditentukan,Tidak relevan,A
+33,"Jika angka di depan \(x\) (yaitu \(a\)) dalam persamaan garis lurus positif, maka arah garis tersebut adalah...",Naik dari kiri ke kanan,Turun dari kiri ke kanan,Datar,Vertikal,A
+34,"Untuk menggambar grafik dari fungsi linear \(y = -12x + 3\), langkah pertama yang harus dilakukan adalah...",Menentukan titik potong dengan sumbu y,Menentukan titik potong dengan sumbu x,Menentukan dua titik pada grafik,Menghitung gradien,A
+35,"Dalam persamaan garis \(y = -12x + 3\), angka yang menunjukkan titik potong dengan sumbu y adalah...",-12,3,0,-3,B
